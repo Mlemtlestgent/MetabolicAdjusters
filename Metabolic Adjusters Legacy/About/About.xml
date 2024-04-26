@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+
+<name>Metabolic Adjusters (LEGACY)</name>
+<author>Mlemtlestgent</author>
+<supportedVersions>
+	<li>1.4</li>
+	<li>1.5</li>
+</supportedVersions>
+<packageId>Mlem.MetaAdjuster</packageId>
+
+<description>
+
+This mod was created for basic Xenogene traits that can be used to tweak the metabolic rate without other changes.
+
+This is the older version. I wanted to make changes and didn't want to potentially ruin saves by adjusting defnames.
+
+</description>
+
+
+</ModMetaData>

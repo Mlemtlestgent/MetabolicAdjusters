@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <GeneCategoryDef>
+    <defName>MlemMetabolicAdjust</defName>
+    <label>Metabolic Adjusters</label>
+    <displayPriorityInXenotype>996</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+  <GeneDef>
+    <defName>MlemMetaAdjustMin100</defName>
+    <label>-100 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin-100</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <displayOrderInCategory>0</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>-100</biostatMet>
+  </GeneDef>
+  
+  <GeneDef>
+    <defName>MlemMetaAdjustMin-5</defName>
+    <label>-5 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin-5</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <displayOrderInCategory>1</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>-5</biostatMet>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>MlemMetaAdjustMin-4</defName>
+    <label>-4 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin-4</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <displayOrderInCategory>6</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>-4</biostatMet>
+  </GeneDef>
+
+    <GeneDef>
+    <defName>MlemMetaAdjustMin-3</defName>
+    <label>-3 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin-3</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <displayOrderInCategory>11</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>-3</biostatMet>
+  </GeneDef>
+ 
+  <GeneDef>
+    <defName>MlemMetaAdjustMin-2</defName>
+    <label>-2 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin-2</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <displayOrderInCategory>16</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>-2</biostatMet>
+  </GeneDef>
+  
+  <GeneDef>
+    <defName>MlemMetaAdjustMin-1</defName>
+    <label>-1 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin-1</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <displayOrderInCategory>21</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>-1</biostatMet>
+  </GeneDef>
+  
+  <GeneDef>
+    <defName>MlemMetaAdjustMin5</defName>
+    <label>5 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin5</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <displayOrderInCategory>26</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>5</biostatMet>
+  </GeneDef>
+  
+  <GeneDef>
+    <defName>MlemMetaAdjustMin4</defName>
+    <label>4 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin4</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <displayOrderInCategory>31</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>4</biostatMet>
+  </GeneDef>
+ 
+    <GeneDef>
+    <defName>MlemMetaAdjustMin3</defName>
+    <label>3 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin3</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <displayOrderInCategory>36</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>3</biostatMet>
+  </GeneDef>
+ 
+  <GeneDef>
+    <defName>MlemMetaAdjustMin2</defName>
+    <label>2 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin2</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <displayOrderInCategory>41</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>2</biostatMet>
+  </GeneDef>
+ 
+  <GeneDef>
+    <defName>MlemMetaAdjustMin1</defName>
+    <label>1 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMin1</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <displayOrderInCategory>46</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>1</biostatMet>
+  </GeneDef>
+
+  <GeneDef>
+    <defName>MlemMetaAdjustMax100</defName>
+    <label>100 Metabolic Adjustment</label>
+	<displayCategory>MlemMetabolicAdjust</displayCategory>
+    <labelShortAdj>MetAdjMax</labelShortAdj>
+    <description>No description.</description>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <displayOrderInCategory>51</displayOrderInCategory>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>100</biostatMet>
+  </GeneDef>
+</Defs>
