@@ -12,7 +12,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-100</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>0</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-100</biostatMet>
@@ -24,7 +24,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-50</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>1</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-50</biostatMet>
@@ -36,7 +36,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-40</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>2</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-40</biostatMet>
@@ -48,7 +48,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-30</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>3</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-30</biostatMet>
@@ -60,7 +60,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-20</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>4</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-20</biostatMet>
@@ -72,7 +72,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-10</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>5</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-10</biostatMet>
@@ -84,7 +84,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-5</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>6</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-5</biostatMet>
@@ -96,7 +96,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-4</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>7</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-4</biostatMet>
@@ -108,7 +108,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-3</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>8</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-3</biostatMet>
@@ -120,7 +120,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-2</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>9</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-2</biostatMet>
@@ -132,7 +132,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj-1</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
     <displayOrderInCategory>10</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>-1</biostatMet>
@@ -144,7 +144,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj100</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>11</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>100</biostatMet>
@@ -156,7 +156,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj50</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>12</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>50</biostatMet>
@@ -168,7 +168,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj40</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>13</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>40</biostatMet>
@@ -180,7 +180,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj30</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>14</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>30</biostatMet>
@@ -192,7 +192,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj20</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>15</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>20</biostatMet>
@@ -204,7 +204,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj10</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>16</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>10</biostatMet>
@@ -216,7 +216,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj5</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>17</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>5</biostatMet>
@@ -228,7 +228,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj4</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>18</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>4</biostatMet>
@@ -240,7 +240,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj3</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>19</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>3</biostatMet>
@@ -252,7 +252,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj2</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>20</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>2</biostatMet>
@@ -264,7 +264,7 @@
 	<displayCategory>MlemMetabolicAdjust</displayCategory>
     <labelShortAdj>MetAdj1</labelShortAdj>
     <description>No description.</description>
-    <iconPath>UI/Icons/Genes/Gene_Depressive</iconPath>
+    <iconPath>UI/Icons/Genes/Gene_Sanguine</iconPath>
     <displayOrderInCategory>21</displayOrderInCategory>
     <biostatCpx>0</biostatCpx>
     <biostatMet>1</biostatMet>
